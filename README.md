@@ -1,27 +1,27 @@
-# React + TypeScript + Vite
+# Formulário Incrível com TypeScript, React, Ant Design, HTML e CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto incrível que desenvolvi, que consiste em um formulário elegante criado usando TypeScript, React,Shadcn Ui,  Ant Design, Tailwind.css, HTML e CSS.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- TypeScript 🥰
+- React ❤
+- Ant Design (uma biblioteca de componentes para React) 💦
+- Shadcn Ui (Uma biblioteca apaixonante) 💖
+- Tailwind.css💝
+- HTML 🧡
+- CSS 💜
 
-## Expanding the ESLint configuration
+## Funcionalidades do Projeto
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- O projeto inclui um formulário moderno e bonito.
+- Utiliza a biblioteca Shadcn Ui para criar componentes de formulário.
+- TypeScript é usado para fornecer tipagem estática para o código React.
+- O CSS e Talwind.css são aplicados para estilizar o formulário de maneira atraente.
 
-- Configure the top-level `parserOptions` property like this:
+## Como Executar o Projeto
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+1. Clone este repositório:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+   ```shell
+   git clone https://github.com/Nata-Hadrianus/Project-Vite.git
